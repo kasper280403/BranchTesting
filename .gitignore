@@ -1,2 +1,5 @@
 /BranchTesting/
-/HiddenTask.txt/
+.HiddenTask
+.DS_Store
+.AppleDouble
+.LSOverride
