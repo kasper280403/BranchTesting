@@ -1,3 +1,1 @@
-This is the main
-
-This is Branch1 + Branch2, merged
+Everything will be back to zero in the next commit
