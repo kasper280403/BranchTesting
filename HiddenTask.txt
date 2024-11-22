@@ -1,0 +1,10 @@
+Make a game in python
+
+The game to be made is Hangman
+The user should first be able to define a word
+    max length 15 words, not case sensitive, only allowed 1 "-" else just letters
+The program should be ran in terminal
+The remaining lives should be displayed like this " <3 " and the used lives " </3 "
+The user should start with 6 lives, loosing 1 every wrong guess
+The word should be displayed " _ _ _ _ _ " and wrong guesses like this " wrong guesses: "
+With right letter marked out like this " _ _ R _ "
